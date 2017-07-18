@@ -5,15 +5,13 @@
 ### Project Title: Frameworks for automation of infrastructure at BigBasket
 
 ### Analysis of the problem: 
-1. The initial portion of the project consists of an thorough understanding of the production 
+ 1. The initial portion of the project consists of an thorough understanding of the production 
 code at BigBasket as this will be essential for work in any domain/role in the company. Documentation of certain undocumented portions
 of the API is crucial for the understanding of code for future employees of the company and also for the purpose of debugging APIs as and when 
 necessary. Large scale applications are built by a team and it is crucial for all team members to aware of the respective API endpoints of other team members that they are going to use. This is where proper API referencing is necessary for the application.
 
 2. The next portion of the project will consist of creation and maintenence of frameworks for automating build, deployment, testing and maintenance tasks necessary for the application. These tasks come under the broad category of **devops**. To start with I will be focussing on continuous integration. Continuous integration dictates that production code be "pushed" into shared repositories and all tasks and testing, building and monitoring of the application would be done automatically through a configured software like jenkins. 
-
 Building of custom frameworks for tweaking any aspect of continuous integrtion would also fall in this category. When it comes to large software coded by a team of members it is rather easy to overlook certain critical aspects of the functioning of software. Hence tests are written to address these critical aspects. The development team should not be bogged down with the technical difficulties of deployment. 
-
 This is where the devops team comes in to ensure deployment in a fast, effective and cost-efficient manner. Another aspect of this phase would highlight yet another concept in maintenance of large applications namely stream processing. When large systems are built, maintaining communication between these systems becomes too difficult without using stream pocessing. Stream processing architecture is therefore crucial for maintaining communication between various systems in the entire network.
 
 ### Project Plan:
@@ -42,7 +40,7 @@ For now the only possible timeline would be that I am going to document undocume
 9. Among other skills some would definitely be discovered as and when I get my hands dirty with the project itself.
 
 ### Skills to learn
-1. `Restructured Text`. Since I have had experience only with markdown for documentation purposes, a knowledge of `Restructured etext` would be essential.
+1. `Restructured Text`. Since I have had experience only with markdown for documentation purposes, a knowledge of `Restructured text` would be essential.
 2. `Django`. I have had experience in Flask for python web development and not `django`. `Django` being a more complete and full featured web development framework would require clear understanding.
 3. `Jenkins`. My prior experience with continuos integration has been with `TravisCI` and testing has been `Nose`. Therefore it is necessary to learn `Jenkins`.
 4. `Apache Kafka`. Stream processing is a complete new territory for me and hence it is essential for me to learn and apply it.
